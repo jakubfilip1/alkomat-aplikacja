@@ -1,0 +1,69 @@
+# ninja log v6
+2795	2983	7438936944014426	Narzedzize.exe	18f580995fbe0921
+14	168	7438936916205042	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+14	168	7438936916205042	Narzedzize_autogen/timestamp	99a895ca1340533d
+14	168	7438936916205042	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+14	168	7438936916205042	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+648	3326	7438933806965486	CMakeFiles/Narzedzize.dir/Narzedzize_autogen/mocs_compilation.cpp.obj	1e974724eb55a6ae
+652	3332	7438933807014791	CMakeFiles/Narzedzize.dir/main.cpp.obj	a5f64a59fb34347e
+170	2795	7438936917764706	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+35	250	7438940941380584	Narzedzize_autogen/timestamp	99a895ca1340533d
+35	250	7438940941380584	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+35	250	7438940941380584	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+35	250	7438940941380584	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+251	2830	7438940943529781	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+2830	3024	7438940969324367	Narzedzize.exe	18f580995fbe0921
+34	192	7438941731474833	Narzedzize_autogen/timestamp	99a895ca1340533d
+34	192	7438941731474833	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+34	192	7438941731474833	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+34	192	7438941731474833	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+192	2641	7438941733060665	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+2641	2851	7438941757545241	Narzedzize.exe	18f580995fbe0921
+31	185	7438942188454234	Narzedzize_autogen/timestamp	99a895ca1340533d
+31	185	7438942188454234	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+31	185	7438942188454234	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+31	185	7438942188454234	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+186	2608	7438942190005727	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+2608	2800	7438942214217472	Narzedzize.exe	18f580995fbe0921
+31	224	7438943435469659	Narzedzize_autogen/timestamp	99a895ca1340533d
+31	224	7438943435469659	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+31	224	7438943435469659	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+31	224	7438943435469659	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+225	2743	7438943437412712	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+2743	2954	7438943462587007	Narzedzize.exe	18f580995fbe0921
+29	216	7438945542921661	Narzedzize_autogen/timestamp	99a895ca1340533d
+29	216	7438945542921661	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+29	216	7438945542921661	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+29	216	7438945542921661	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+217	2936	7438945544802993	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+2936	3128	7438945571998824	Narzedzize.exe	18f580995fbe0921
+36	225	7438945768573293	Narzedzize_autogen/timestamp	99a895ca1340533d
+36	225	7438945768573293	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+36	225	7438945768573293	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+36	225	7438945768573293	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+226	2919	7438945770460317	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+2919	3109	7438945797394013	Narzedzize.exe	18f580995fbe0921
+36	186	7438946131116770	Narzedzize_autogen/timestamp	99a895ca1340533d
+36	186	7438946131116770	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+36	186	7438946131116770	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+36	186	7438946131116770	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+187	3029	7438946132622871	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+3030	3221	7438946161050771	Narzedzize.exe	18f580995fbe0921
+34	249	7438948133916912	Narzedzize_autogen/timestamp	99a895ca1340533d
+34	249	7438948133916912	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+34	249	7438948133916912	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+34	249	7438948133916912	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+250	3486	7438948136067778	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+3487	3691	7438948168440878	Narzedzize.exe	18f580995fbe0921
+35	232	7438948952002355	Narzedzize_autogen/timestamp	99a895ca1340533d
+35	232	7438948952002355	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+35	232	7438948952002355	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+35	232	7438948952002355	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+233	3545	7438948953989335	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+3545	3789	7438948987105733	Narzedzize.exe	18f580995fbe0921
+36	187	7438953976967061	Narzedzize_autogen/timestamp	99a895ca1340533d
+36	187	7438953976967061	Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+36	187	7438953976967061	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/timestamp	99a895ca1340533d
+36	187	7438953976967061	C:/Users/jakub/Documents/Narzedzie alkoholowe/Narzedzize/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Narzedzize_autogen/mocs_compilation.cpp	99a895ca1340533d
+188	3424	7438953978489712	CMakeFiles/Narzedzize.dir/mainwindow.cpp.obj	5804843ffde61b5c
+3424	3617	7438954010861188	Narzedzize.exe	18f580995fbe0921
